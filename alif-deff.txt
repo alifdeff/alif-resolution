@@ -1,0 +1,4 @@
+My Resolution for programming, I want to be a web developer. So there's subject that i should learn:
+-HTML
+-CSS
+-VueJS
