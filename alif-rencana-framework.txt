@@ -3,6 +3,7 @@ Rencana Framework:
       => TailwindCSS
       
 -Javascript :=> VueJS
-             => ReactJS
+             => Angular
+             
 -PHP :=> Laravel
       => Codeigniter
