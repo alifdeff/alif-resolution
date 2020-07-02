@@ -1,0 +1,6 @@
+Rencana Framework:
+-CSS :=> Bootstrap
+      => TailwindCSS
+      
+-Javascript :=> VueJS
+             => ReactJS
