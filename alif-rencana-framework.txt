@@ -4,6 +4,7 @@ Rencana Framework:
       
 -Javascript :=> VueJS
              => ReactJS
+             => Angular
              
 -PHP :=> Laravel
       => Codeigniter
