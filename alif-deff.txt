@@ -2,3 +2,4 @@ My Resolution for programming, I want to be a web developer. So there's subject 
 -HTML
 -CSS
 -Javascript
+-Framework 
