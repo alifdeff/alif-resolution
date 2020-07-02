@@ -1,8 +1,9 @@
 Rencana Framework:
 -CSS :=> Bootstrap
-      => TailwindCSS
+      => Materialize
       
 -Javascript :=> VueJS
              => ReactJS
+             
 -PHP :=> Laravel
       => Codeigniter
